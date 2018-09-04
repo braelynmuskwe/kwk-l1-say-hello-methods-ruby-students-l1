@@ -1,4 +1,4 @@
-def say_hello
-  puts "Hello momma"
-end 
-say_hello
+def 
+  puts "Hello Anna"
+  puts "How are you"
+end
